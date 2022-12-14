@@ -1,5 +1,13 @@
 # Keycloak Docker for Dev
 
+## Keycloak documents
+
+- [Official Document](https://www.keycloak.org/docs/latest)
+
+## Example configuration
+
+- [Authentication and authorization using the Keycloak REST API](https://developers.redhat.com/blog/2020/11/24/authentication-and-authorization-using-the-keycloak-rest-api#keycloak_sso_case_study)
+
 ## Example docker compose file
 
 - [keycloak / keycloak-containers](https://github.com/keycloak/keycloak-containers/tree/main/docker-compose-examples)
